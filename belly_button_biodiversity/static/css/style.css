@@ -1,0 +1,22 @@
+.jumbotron {
+    background-color: rgb(0,60,48);
+    color: #eee;
+}
+
+.panel {
+    /* border-color: rgb(0,60,48); */
+    border-color: rgb(201, 231, 135);
+}
+
+.panel-primary>.panel-heading{
+    /* background-color: rgb(0,60,48) !important;
+    border-color: rgb(0,60,48); */
+    background-color: rgb(201, 231, 135);
+    border-color: rgb(201, 231, 135);
+    color: black;
+}
+
+.well {
+    background-color:rgb(201, 231, 135);
+}
+
